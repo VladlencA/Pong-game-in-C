@@ -1,3 +1,3 @@
-# console application: Pong game
+# Console application: Pong game
 
-![files](pic/image.png)
+![files](image.png)
