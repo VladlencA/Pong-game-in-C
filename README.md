@@ -8,7 +8,7 @@ Here you can find two realizaition: step by step and real time
 
 ![files](image.png)
 
-## Available operating systems:
+## Available operating systems
 - macos
 - linux
 
