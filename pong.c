@@ -34,8 +34,6 @@ int main() {
     int player2Points = 0;
     int flag = 0;  // flag for ball vector change
 
-    draw(player1Y, player2Y, player1Points, player2Points, ballX, ballY);
-
     while ((player1Points != FINALLPOINT) && (player2Points != FINALLPOINT)) {
         printf("\e[2J\e[H");
         draw(player1Y, player2Y, player1Points, player2Points, ballX, ballY);
