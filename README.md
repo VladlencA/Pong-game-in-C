@@ -19,10 +19,14 @@ Open your Terminal and
 If you wont run pong.c print: 
 
     gcc pong.c
+    
+    ./a.out
 
 If you wont run pong_bonus.c print: 
 
     gcc -lncurses pong_bonus.c
+    
+    ./a.out
 
 ## How to play?
 
