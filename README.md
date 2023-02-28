@@ -24,7 +24,7 @@ If you wont run pong.c print:
 
 If you wont run pong_bonus.c print: 
 
-    gcc -lncurses pong_bonus.c
+    gcc pong_bonus.c -lncurses
     
     ./a.out
 
